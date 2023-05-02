@@ -1,3 +1,7 @@
 *.pyc
 *.DS_Store
 *.swp
+dist
+*.egg-info
+*.png
+.vscode/
